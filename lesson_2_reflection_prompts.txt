@@ -13,26 +13,31 @@ easier tracking.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
-
+Staging area lets us do group related changes and commit them to the repository.Changes to
+Staging area are reversibe.
 
 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branches help in the scenario when we are working on some changes wthout affecting the main
+and if it works out later merge those changes.
 
 
 
 
 How do the diagrams help you visualize the branch structure?
-
+Diagrams create the graphical view of the branches with their commits and helpus to know the position of head.
+So they are perfect.
 
 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-
+It combines and result into one single branch.
 
 
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges 
 manually?
+Automatic merging is intant and effective whereas manual merging helpful in case of conflicts.
