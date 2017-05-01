@@ -4,5 +4,12 @@ repository.
 
 Why might you want to always pull changes manually 
 rather than having Git automatically stay up-to-date with your remote repository?
-If you are working on some change and don't want git to merge those changes before we finished it 
+Answer:If you are working on some change and don't want git to merge those changes before we finished it 
 is hepful in that case.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks is similar to cloning and it clones from one account to another on GiitHub.
+Cloning term is basically referred to cloning into local machine.
+Branch works at repository level while fork is independant of repository.
+If we delete a repo, the branch also gets deleted but a forked repo has no effect even 
+if the main code/repo is deleted.
