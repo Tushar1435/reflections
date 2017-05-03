@@ -8,8 +8,12 @@ Answer:If you are working on some change and don't want git to merge those chang
 is hepful in that case.
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
-forks is similar to cloning and it clones from one account to another on GiitHub.
+Answer:forks is similar to cloning and it clones from one account to another on GiitHub.
 Cloning term is basically referred to cloning into local machine.
 Branch works at repository level while fork is independant of repository.
 If we delete a repo, the branch also gets deleted but a forked repo has no effect even 
 if the main code/repo is deleted.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Answer:It is helpful to compare the local master branch and the master branch on remote origin.
+By that we could when to merge the branches and to avoid merging conflicts
