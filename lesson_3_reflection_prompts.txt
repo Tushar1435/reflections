@@ -17,3 +17,6 @@ if the main code/repo is deleted.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Answer:It is helpful to compare the local master branch and the master branch on remote origin.
 By that we could when to merge the branches and to avoid merging conflicts
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Answer:It will be harder and will lead many conflicts and confusions.
