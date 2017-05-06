@@ -20,3 +20,7 @@ By that we could when to merge the branches and to avoid merging conflicts
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Answer:It will be harder and will lead many conflicts and confusions.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Answer:When I want to collborate with other persons.I want to show them the changes.
+It does not effect the main line of code.
